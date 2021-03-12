@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CelebrityFaceDetection/static/css/main.da80fe48.chunk.css",
+    "main.css": "/CelebrityFaceDetection/static/css/main.de151075.chunk.css",
     "main.js": "/CelebrityFaceDetection/static/js/main.2b983d2c.chunk.js",
     "main.js.map": "/CelebrityFaceDetection/static/js/main.2b983d2c.chunk.js.map",
     "runtime-main.js": "/CelebrityFaceDetection/static/js/runtime-main.da770758.js",
@@ -10,14 +10,14 @@
     "static/js/2.c250fb67.chunk.js.map": "/CelebrityFaceDetection/static/js/2.c250fb67.chunk.js.map",
     "index.html": "/CelebrityFaceDetection/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/CelebrityFaceDetection/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.da80fe48.chunk.css.map": "/CelebrityFaceDetection/static/css/main.da80fe48.chunk.css.map",
+    "static/css/main.de151075.chunk.css.map": "/CelebrityFaceDetection/static/css/main.de151075.chunk.css.map",
     "static/js/2.c250fb67.chunk.js.LICENSE.txt": "/CelebrityFaceDetection/static/js/2.c250fb67.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.da770758.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.c250fb67.chunk.js",
-    "static/css/main.da80fe48.chunk.css",
+    "static/css/main.de151075.chunk.css",
     "static/js/main.2b983d2c.chunk.js"
   ]
 }
